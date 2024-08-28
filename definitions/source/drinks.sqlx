@@ -1,0 +1,9 @@
+config {
+    type: "declaration",
+    database: "upheld-pursuit-431610-s9",
+    schema: "raw",
+    name: "drinks"
+
+}
+
+  `
