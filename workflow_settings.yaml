@@ -1,0 +1,5 @@
+defaultProject: upheld-pursuit-431610-s9
+defaultLocation: EU
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0
